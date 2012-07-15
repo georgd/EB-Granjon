@@ -1,5 +1,7 @@
 # EB-Granjon
 
+Disclaimer: This repository has been merged with EB-Garamond. It is kept here for historical reasons only!
+
 This is the repository for experiments with the EB-Garamond font and new cuts of it in pre-beta stage. Once their quality allows it, they will be moved to the EB-Garamond repository.
 
 ## Contents:
